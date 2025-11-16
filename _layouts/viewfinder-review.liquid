@@ -77,11 +77,11 @@ layout: default
       </p>
     {% endif %}
     <p class="post-tags">
-      <a href="{{ '/' | append: page.collection | append: '/books/' | append: year | relative_url }}"> <i class="fa-solid fa-calendar fa-sm"></i> {{ year }}</a>
+      <a href="{{ '/' | append: page.collection | append: '/viewfinder/' | append: year | relative_url }}"> <i class="fa-solid fa-calendar fa-sm"></i> {{ year }}</a>
       {% if tags != '' %}
         &nbsp;&middot;&nbsp;
         {% for tag in page.tags %}
-          <a href="{{ '/' | append: page.collection | append: '/books/tag/' | append: tag | slugify | relative_url }}"> <i class="fa-solid fa-hashtag fa-sm"></i> {{ tag }}</a>
+          <a href="{{ '/' | append: page.collection | append: '/viewfinder/tag/' | append: tag | slugify | relative_url }}"> <i class="fa-solid fa-hashtag fa-sm"></i> {{ tag }}</a>
           {% unless forloop.last %}
             &nbsp;
           {% endunless %}
@@ -91,7 +91,7 @@ layout: default
       {% if categories != '' %}
         &nbsp;&middot;&nbsp;
         {% for category in page.categories %}
-          <a href="{{ '/' | append: page.collection | append: '/books/category/' | append: category | slugify | relative_url }}"> <i class="fa-solid fa-tag fa-sm"></i> {{ category }}</a>
+          <a href="{{ '/' | append: page.collection | append: '/viewfinder/category/' | append: category | slugify | relative_url }}"> <i class="fa-solid fa-tag fa-sm"></i> {{ category }}</a>
           {% unless forloop.last %}
             &nbsp;
           {% endunless %}

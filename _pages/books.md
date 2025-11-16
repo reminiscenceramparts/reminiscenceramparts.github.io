@@ -7,8 +7,9 @@ nav_order: 2
 collection: books
 ---
 
-> WHAT an astonishing thing a book is. It's a flat object made from a tree with flexible parts on which are imprinted lots of funny dark squiggles. But one glance at it and you're inside the mind of another person, maybe somebody dead for thousands of years. Across the millennia, an author is speaking clearly and silently inside your head, directly to you. Writing is perhaps the greatest of human inventions, binding together people who never knew each other, citizens of distant epochs. Books break the shackles of time. A book is proof that humans are capable of working magic.
+> Look into my soul, I know - everything you need is in there. It has to be. Because I've never sold my soul to anyone! It's mine, it's human! Figure out yourself what I want - because I know it can't be bad! The hell with it all, I just can't think of a thing other than those words of his -
+> 
+HAPPINESS, FREE, FOR EVERYONE, AND LET NO ONE BE FORGOTTEN!
 >
-> -- Carl Sagan, Cosmos, Part 11: The Persistence of Memory (1980)
 
 ## Books that I am reading, have read, or will read
