@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-the-site-is-live",
+        },{id: "post-i-won-first-place-with-my-sci-fi-short-story",
+        
+          title: "I won first place with my sci-fi short story!",
+        
+        description: "I wanted to write a short story for this contest last year too, but my lack of confidence shut me down. This time though, determination finally won out and I actually ended up winning!",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/writing-competition/";
+          
+        },
+      },{id: "post-the-site-is-live",
         
           title: "The site is live.",
         
