@@ -7,11 +7,17 @@ tags: blog
 categories: site-related
 ---
 
-Well, we’ve finally made it! The first iteration of the site is ready, with a couple of fresh updates and this post available right at launch. As you can see from the submenus, I don’t plan to use this place only for simple blog entries. Any reviews that don’t quite fit the channel’s profile will end up here. I also want to publish my writings and share any creative work I produce for the videos.
+<p style="text-align: justify;">
+  Well, we’ve finally made it! The first iteration of the site is ready, with a couple of fresh updates and this post available right at launch. As you can see from the submenus, I don’t plan to use this place only for simple blog entries. Any reviews that don’t quite fit the channel’s profile will end up here. I also want to publish my writings and share any creative work I produce for the videos.
+</p>
 
-We’ll see how active I manage to be here. Getting things started was a bit rough but everything is slowly falling into place and writing new posts shouldn’t be too much of a challenge from now on.
+<p style="text-align: justify;">
+  We’ll see how active I manage to be here. Getting things started was a bit rough but everything is slowly falling into place and writing new posts shouldn’t be too much of a challenge from now on.
+</p>
 
-I want to leave a little memento here so I can look back and see where ~~I started~~ where **we started**, because every viewer and reader is part of this community.
+<p style="text-align: justify;">
+  I want to leave a little memento here so I can look back and see where <s>I started</s> where <b>we started</b>, because every viewer and reader is part of this community.
+</p>
 
 #### Starting stats as of 2025-11-16 15:21
 
