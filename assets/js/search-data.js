@@ -73,6 +73,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/sega_lcd_games/";
+            },},{id: "news-new-video-is-up-late-again-sorry",
+          title: 'New video is up! Late again, sorry!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/friday_monsters/";
             },},{
         id: 'social-youtube',
         title: 'YouTube',
