@@ -60,7 +60,7 @@ I really liked Kaz Ayabe’s style in this game, and I already found another tit
 <img src="/assets/img/atfm-covers.jpg" alt="atfm-covers" style="display:block; margin: 0 auto; width:50%; height:auto;">
 
 <p style="text-align: center;">
-<i>Boku no Natsuyasumi 3: Kitaguni Hen: Chiisana Boku no Dai Sougen is only avaible on PS3.</i>
+<i>Boku no Natsuyasumi 3: Kitaguni Hen: Chiisana Boku no Dai Sougen is only available on the PS3.</i>
 </p>
 
 <div style="text-align:center; margin: 0.5em 0; color:#999;">
